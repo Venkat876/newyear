@@ -1,2 +1,2 @@
 # newyear
-just knowing much new things in the technology
+just knowing much new things in technology and in Life
