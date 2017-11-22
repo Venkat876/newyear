@@ -1,1 +1,2 @@
+this is the editing for the second time 
 hello this a new file and to learn how the git work
